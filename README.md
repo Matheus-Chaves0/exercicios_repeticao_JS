@@ -1,1 +1,4 @@
-# exercicios_repeticao_JS
+# Exercícios Estrutura de Repetição
+
+ - Exercícios feitos em aula
+ - estruturas utilizadas: while, do while e for
